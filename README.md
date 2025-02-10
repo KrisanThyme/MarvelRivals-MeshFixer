@@ -7,7 +7,7 @@ Reverse Engineer: Krisan Thyme
 Assistance: rkss
 
 
-This script is used to update Meshes to make them compatiable with Marvel Rivals.
+This script is used to update Meshes to make them compatible with Marvel Rivals.
 
 Code Based off UAssetGui https://github.com/atenfyr/UAssetGUI
 
