@@ -4,7 +4,7 @@ Script By: MrPolarburr
 
 Reverse Engineer: Krisan Thyme
 
-Asistance: rkss
+Assistance: rkss
 
 
 This script is used to update Meshes to make them compatiable with Marvel Rivals.
