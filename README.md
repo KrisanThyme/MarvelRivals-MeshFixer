@@ -8,6 +8,7 @@ Assistance: rkss
 
 
 This script is used to update Meshes to make them compatiable with Marvel Rivals.
+
 Code Based off UAssetGui https://github.com/atenfyr/UAssetGUI
 
 - Remove "_P" from the two patch files if you haven't already.
